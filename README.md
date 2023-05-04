@@ -4,11 +4,15 @@ This is a project develop using SQL Server Management Studio(SSMS) and Visual St
 Following tools are required to develop this project
 
 • SQL Server Management Studio
+
 • SQL Server Data Tools
+
 • SQL Server 2016 or higher
+
 • Microsoft Office (Excel/ Word)
 
 Below database backups are required (Resources)
 
 • RetailSourceDB.bak -> This database backup contains the source system data.
+
 • CustomerAddress.txt -> This file contains all customer address information.
