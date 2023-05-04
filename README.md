@@ -1,6 +1,6 @@
 # DataWarehousing_Project
 This is a project develop using SQL Server Management Studio(SSMS) and Visual Studio. Here I created data warehouse using the data in a source database.
-##Step 01 - Setting-up the Environment
+## Step 01 - Setting-up the Environment
 Following tools are required to develop this project
 • SQL Server Management Studio
 • SQL Server Data Tools
