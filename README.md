@@ -10,7 +10,7 @@ This is a project developed by using SQL Server Management Studio(SSMS), SQL Ser
 
 • Microsoft Office (Excel/ Word)
 
-#### Below database backups are required (Resources)
+#### Below database backups are required (Resource)
 
 • RetailSourceDB.bak -> This database backup contains the source system data.
 
